@@ -28,4 +28,4 @@ Equivalent storage in MB: 5120.0
 ## Student and Group Information
 Student Name: Sana Fatima
 Student ID: 585864
-
+This project was created as part of a Git lab exercise.
